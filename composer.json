@@ -1,5 +1,5 @@
 {
-    "name": "AdventOfCode2023",
+    "name": "advent-of-code-2023",
     "description": "Repository for solutions of 2023 edition",
     "autoload": {
         "psr-4": {
