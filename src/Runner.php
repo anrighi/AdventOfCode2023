@@ -8,6 +8,7 @@ use AOC\Calendar\Day1;
 use AOC\Calendar\Day2;
 use AOC\Calendar\Day3;
 use AOC\Calendar\Day4;
+use AOC\Calendar\Day6;
 use AOC\Calendar\Day8;
 
 $calendar = [
@@ -15,6 +16,7 @@ $calendar = [
     new Day2(),
     new Day3(),
     new Day4(),
+    new Day6(),
     new Day8(),
 ];
 
